@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fitness-exercises/static/css/main.e52fc97a.css",
+    "main.js": "/fitness-exercises/static/js/main.489cf696.js",
+    "static/media/fit.png": "/fitness-exercises/static/media/fit.5a3edc1527c2afaaad95.png",
+    "static/media/dumbells.jpg": "/fitness-exercises/static/media/dumbells.911c2024c1503a1f6acd.jpg",
+    "static/media/body.png": "/fitness-exercises/static/media/body.fdfc3e815136ae2b118b.png",
+    "static/media/neck.png": "/fitness-exercises/static/media/neck.7f7f00c4a0ea54e19895.png",
+    "static/media/shoulders.png": "/fitness-exercises/static/media/shoulders.990c7589b5a0abebef89.png",
+    "static/media/uper-arms.png": "/fitness-exercises/static/media/uper-arms.eee47eef005506329bd5.png",
+    "static/media/chest.png": "/fitness-exercises/static/media/chest.07faa3901159027fd027.png",
+    "static/media/lower-arms.png": "/fitness-exercises/static/media/lower-arms.6619f59fed0315a1aaf5.png",
+    "static/media/waist.png": "/fitness-exercises/static/media/waist.42a88629fd332727fc64.png",
+    "static/media/uper-legs.png": "/fitness-exercises/static/media/uper-legs.1ddbd1756cda32be4d5c.png",
+    "static/media/lower-legs.png": "/fitness-exercises/static/media/lower-legs.9a956e8328bef7301415.png",
+    "static/media/back.png": "/fitness-exercises/static/media/back.2110afedeb13e9218863.png",
+    "static/media/cardio.png": "/fitness-exercises/static/media/cardio.6b7cf25493bdb8993705.png",
+    "index.html": "/fitness-exercises/index.html",
+    "main.e52fc97a.css.map": "/fitness-exercises/static/css/main.e52fc97a.css.map",
+    "main.489cf696.js.map": "/fitness-exercises/static/js/main.489cf696.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e52fc97a.css",
+    "static/js/main.489cf696.js"
+  ]
+}
